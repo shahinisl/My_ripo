@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Tech",
+    "slug": "tech",
+    "description": "Technology news, reviews, and analysis",
+    "color": "#3B82F6",
+    "icon": "💻",
+    "articleCount": 245
+  },
+  {
+    "id": 2,
+    "name": "Business",
+    "slug": "business",
+    "description": "Business news, market analysis, and corporate updates",
+    "color": "#10B981",
+    "icon": "💼",
+    "articleCount": 189
+  },
+  {
+    "id": 3,
+    "name": "Politics",
+    "slug": "politics",
+    "description": "Political news, analysis, and government updates",
+    "color": "#DC2626",
+    "icon": "🏛️",
+    "articleCount": 156
+  },
+  {
+    "id": 4,
+    "name": "Sports",
+    "slug": "sports",
+    "description": "Sports news, match reports, and athlete profiles",
+    "color": "#F59E0B",
+    "icon": "⚽",
+    "articleCount": 298
+  },
+  {
+    "id": 5,
+    "name": "Environment",
+    "slug": "environment",
+    "description": "Environmental news, climate change, and sustainability",
+    "color": "#059669",
+    "icon": "🌱",
+    "articleCount": 134
+  },
+  {
+    "id": 6,
+    "name": "Finance",
+    "slug": "finance",
+    "description": "Financial markets, cryptocurrency, and economic analysis",
+    "color": "#7C3AED",
+    "icon": "💰",
+    "articleCount": 167
+  },
+  {
+    "id": 7,
+    "name": "Science",
+    "slug": "science",
+    "description": "Scientific discoveries, research, and innovation",
+    "color": "#EC4899",
+    "icon": "🔬",
+    "articleCount": 89
+  },
+  {
+    "id": 8,
+    "name": "World",
+    "slug": "world",
+    "description": "International news and global affairs",
+    "color": "#6B7280",
+    "icon": "🌍",
+    "articleCount": 203
+  },
+  {
+    "id": 9,
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "description": "Lifestyle, culture, and entertainment news",
+    "color": "#F97316",
+    "icon": "✨",
+    "articleCount": 178
+  }
+]

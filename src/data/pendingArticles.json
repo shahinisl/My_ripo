@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6,
+    "title": "AI Revolution in Healthcare: Transforming Patient Care in 2025",
+    "category": "Tech",
+    "author": "John Smith",
+    "authorId": 1,
+    "summary": "Artificial intelligence is revolutionizing healthcare delivery with breakthrough applications in diagnostics, personalized treatment, and patient monitoring systems.",
+    "content": "The healthcare industry is experiencing a transformative shift as artificial intelligence technologies mature and find practical applications in patient care. From diagnostic imaging to drug discovery, AI is proving to be a game-changer in how medical professionals approach treatment and care delivery.\n\nOne of the most significant developments has been in medical imaging, where AI systems now outperform human radiologists in detecting certain types of cancer, including breast, lung, and skin cancers. These systems can analyze thousands of images in minutes, identifying subtle patterns that might escape human observation.\n\nPersonalized medicine is another area where AI is making substantial impact. By analyzing patient genetic data, medical history, and real-time health metrics, AI systems can recommend tailored treatment plans that are more effective than traditional one-size-fits-all approaches.\n\nHowever, the integration of AI in healthcare also raises important questions about data privacy, algorithmic bias, and the role of human judgment in medical decision-making. Regulatory frameworks are still evolving to address these challenges while enabling innovation.",
+    "image": "/images/ai-healthcare.jpg",
+    "tags": ["AI", "Healthcare", "Technology", "Medicine"],
+    "status": "pending",
+    "submittedDate": "2025-08-09T14:30:00Z",
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": 7,
+    "title": "Climate Summit 2025: World Leaders Commit to Ambitious Carbon Targets",
+    "category": "Environment",
+    "author": "Mike Davis",
+    "authorId": 3,
+    "summary": "The annual climate summit concludes with unprecedented commitments to carbon neutrality, but experts question whether the pledges are achievable.",
+    "content": "The 2025 Global Climate Summit in Geneva has concluded with what organizers are calling the most ambitious set of climate commitments in history. Over 190 countries have signed onto new carbon reduction targets that aim to limit global warming to 1.5°C above pre-industrial levels.\n\nKey commitments include a 50% reduction in global carbon emissions by 2030 and complete carbon neutrality by 2050. Major economies including the United States, European Union, and China have pledged to accelerate their renewable energy transitions and phase out fossil fuel subsidies.\n\nThe private sector has also stepped up with significant commitments. More than 1,000 major corporations have pledged to achieve net-zero emissions by 2040, representing over $50 trillion in combined market capitalization.\n\nHowever, climate scientists and activists remain skeptical about whether these commitments will translate into concrete action. Previous climate summits have produced similar pledges that were later abandoned or significantly watered down when economic pressures mounted.",
+    "image": "/images/climate-summit.jpg",
+    "tags": ["Climate Change", "Environment", "Politics", "Global"],
+    "status": "pending",
+    "submittedDate": "2025-08-08T09:15:00Z",
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": 8,
+    "title": "Space Tourism Takes Off: First Commercial Space Hotel Opens",
+    "category": "Science",
+    "author": "Sarah Johnson",
+    "authorId": 2,
+    "summary": "The world's first commercial space hotel welcomes its inaugural guests, marking a new era in space tourism and commercial space exploration.",
+    "content": "Orbital Hospitalities' Pioneer Station has officially opened as the world's first commercial space hotel, welcoming its first paying guests in what represents a historic milestone for space tourism. The facility, located in low Earth orbit at an altitude of 400 kilometers, can accommodate up to 12 guests at a time.\n\nThe inaugural guests, who paid $5 million each for a week-long stay, describe the experience as 'life-changing.' Activities include guided spacewalks, Earth observation sessions, and zero-gravity recreational activities in specially designed modules.\n\nThe space hotel features luxury accommodations adapted for microgravity environments, including sleeping pods with Earth-viewing windows, a dining area serving specially prepared space cuisine, and recreational facilities for zero-gravity sports and games.\n\nThis development represents the maturation of the commercial space industry, which has grown from experimental ventures to viable business operations. Several other companies are planning similar facilities, with industry analysts predicting that space tourism could become a $8 billion market by 2030.",
+    "image": "/images/space-hotel.jpg",
+    "tags": ["Space", "Tourism", "Science", "Technology"],
+    "status": "pending",
+    "submittedDate": "2025-08-07T16:45:00Z",
+    "featured": false,
+    "trending": false
+  }
+]

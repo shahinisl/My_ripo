@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "articleId": 1,
+    "userId": 6,
+    "author": "Emma Wilson",
+    "content": "This is a really important topic. The balance between innovation and ethics is crucial for the future of AI technology.",
+    "date": "2025-07-26T10:30:00Z",
+    "likes": 45,
+    "dislikes": 2,
+    "anonymous": false
+  },
+  {
+    "id": 2,
+    "articleId": 1,
+    "userId": null,
+    "author": "Anonymous",
+    "content": "Big tech companies have been ignoring these issues for too long. It's about time regulatory bodies stepped in.",
+    "date": "2025-07-26T14:15:00Z",
+    "likes": 78,
+    "dislikes": 12,
+    "anonymous": true
+  },
+  {
+    "id": 3,
+    "articleId": 2,
+    "userId": 6,
+    "author": "Emma Wilson",
+    "content": "Amazing to see Bitcoin reaching these heights! I wish I had invested earlier. The institutional adoption is really driving this growth.",
+    "date": "2025-07-11T09:45:00Z",
+    "likes": 23,
+    "dislikes": 5,
+    "anonymous": false
+  },
+  {
+    "id": 4,
+    "articleId": 2,
+    "userId": null,
+    "author": "Anonymous",
+    "content": "Be careful with crypto investments. These high prices might not be sustainable in the long term.",
+    "date": "2025-07-11T16:20:00Z",
+    "likes": 34,
+    "dislikes": 18,
+    "anonymous": true
+  },
+  {
+    "id": 5,
+    "articleId": 3,
+    "userId": 6,
+    "author": "Emma Wilson",
+    "content": "Heartbreaking news about the Grand Canyon Lodge. Climate change is really taking a toll on our natural heritage sites.",
+    "date": "2025-07-15T11:10:00Z",
+    "likes": 67,
+    "dislikes": 3,
+    "anonymous": false
+  }
+]
